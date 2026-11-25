@@ -1,0 +1,253 @@
+{
+  "users": {
+    "8632154722": {
+      "_id": 8632154722,
+      "name": "Sam!",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-11-22T11:29:08.986872+00:00",
+      "last_seen": "2026-11-25T16:29:31.870417+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 24
+      }
+    },
+    "5263003915": {
+      "_id": 5263003915,
+      "name": "xrn",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-11-22T11:43:18.094251+00:00",
+      "last_seen": "2026-11-22T11:43:18.098295+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-11-22T11:43:31.696216+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "8619238336": {
+      "_id": 8619238336,
+      "name": "𝘾𝙊𝙈𝙃𝘼𝙏𝙀𝙍",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-11-22T12:41:13.859591+00:00",
+      "last_seen": "2026-11-22T12:41:13.860332+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "9151877983": {
+      "_id": 9151877983,
+      "name": "S!",
+      "username": "samxfrz",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-11-22T19:57:58.992112+00:00",
+      "last_seen": "2026-11-22T19:57:58.995952+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-11-22T19:58:14.864566+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 1
+      }
+    },
+    "8762686595": {
+      "_id": 8762686595,
+      "name": "#off",
+      "username": "",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-11-24T03:01:07.242642+00:00",
+      "last_seen": "2026-11-24T08:42:13.855839+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-11-24T03:01:23.651517+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 11
+      }
+    },
+    "6050761532": {
+      "_id": 6050761532,
+      "name": "Deleted account",
+      "username": "",
+      "plan": "pro",
+      "plan_expires": "2026-11-26T22:59:17.435181+00:00",
+      "joined": "2026-11-24T22:57:32.939963+00:00",
+      "last_seen": "2026-11-24T22:59:24.958694+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-11-24T22:58:27.126244+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": true,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 8
+      },
+      "last_expiry_warn": -1
+    }
+  },
+  "bots": {
+    "c3b9cc649fd6947e": {
+      "_id": "c3b9cc649fd6947e",
+      "owner": 8762686595,
+      "name": "laxmi",
+      "dir": "/app/sandbox/8762686595_c3b9cc649fd6947e",
+      "created": "2026-11-24T03:02:23.795492+00:00",
+      "enc_files": [
+        {
+          "key_id": "DhGfTL_J1XNlvcxPvL4t2w",
+          "enc_path": "/app/storage/encfiles/8762686595/1795489344_laxmi_py.enc",
+          "filename": "laxmi.py",
+          "rel_path": "laxmi.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 10,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "approval_status": "approved",
+      "approval_reason": "",
+      "last_started": "2026-11-24T04:57:57.079234+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    }
+  },
+  "payments": [],
+  "admins": {},
+  "audit": [
+    {
+      "ts": "2026-11-22T11:43:32.540984+00:00",
+      "uid": 5263003915,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-11-22T19:58:15.374039+00:00",
+      "uid": 9151877983,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-11-24T03:01:24.594743+00:00",
+      "uid": 8762686595,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-11-24T04:57:52.112594+00:00",
+      "uid": 8632154722,
+      "action": "approve_bot",
+      "detail": "bot=c3b9cc649fd6947e"
+    },
+    {
+      "ts": "2026-11-24T22:58:27.648051+00:00",
+      "uid": 6050761532,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-11-24T22:59:17.731477+00:00",
+      "uid": 0,
+      "action": "trial_grant",
+      "detail": "uid=6050761532"
+    },
+    {
+      "ts": "2026-11-25T16:29:16.492299+00:00",
+      "uid": 8632154722,
+      "action": "gh_auto_toggle",
+      "detail": "now=off"
+    },
+    {
+      "ts": "2026-11-25T16:29:24.578915+00:00",
+      "uid": 8632154722,
+      "action": "gh_auto_toggle",
+      "detail": "now=on"
+    }
+  ],
+  "coupons": {},
+  "tickets": {},
+  "scheduled_broadcasts": [],
+  "notes": {},
+  "rate_violations": {},
+  "scan_log": [
+    {
+      "ts": "2026-11-24T03:02:24.229080+00:00",
+      "uid": "8762686595",
+      "filename": "laxmi.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    }
+  ]
+}
