@@ -7,7 +7,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-11-22T11:29:08.986872+00:00",
-      "last_seen": "2026-11-25T16:34:10.997950+00:00",
+      "last_seen": "2026-11-26T09:40:09.521752+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 0,
-        "logins": 46
+        "logins": 55
       }
     },
     "5263003915": {
@@ -158,7 +158,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-11-26T05:13:28.461551+00:00",
-      "last_seen": "2026-11-26T05:15:27.724812+00:00",
+      "last_seen": "2026-11-26T09:38:45.646989+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -172,8 +172,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 4
+        "bots_uploaded": 1,
+        "logins": 7
       }
     }
   },
@@ -204,6 +204,35 @@
       "approval_status": "approved",
       "approval_reason": "",
       "last_started": "2026-11-24T04:57:57.079234+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "1608b63de86726d0": {
+      "_id": "1608b63de86726d0",
+      "owner": 9126181411,
+      "name": "mata",
+      "dir": "/app/sandbox/9126181411_1608b63de86726d0",
+      "created": "2026-11-26T09:38:46.534113+00:00",
+      "enc_files": [
+        {
+          "key_id": "_Es092Uald81ywwM2kFxFw",
+          "enc_path": "/app/storage/encfiles/9126181411/1795685927_mata_py.enc",
+          "filename": "mata.py",
+          "rel_path": "mata.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 10,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "approval_status": "approved",
+      "approval_reason": "",
+      "last_started": "2026-11-26T09:38:59.789154+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -270,6 +299,12 @@
       "uid": 9126181411,
       "action": "captcha_pass",
       "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-11-26T09:38:56.371536+00:00",
+      "uid": 8632154722,
+      "action": "approve_bot",
+      "detail": "bot=1608b63de86726d0"
     }
   ],
   "coupons": {},
@@ -282,6 +317,14 @@
       "ts": "2026-11-24T03:02:24.229080+00:00",
       "uid": "8762686595",
       "filename": "laxmi.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-11-26T09:38:46.930673+00:00",
+      "uid": "9126181411",
+      "filename": "mata.py",
       "verdict": "SUSPICIOUS",
       "risk_score": 10,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
