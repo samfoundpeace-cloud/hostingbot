@@ -150,6 +150,31 @@
         "logins": 8
       },
       "last_expiry_warn": -1
+    },
+    "9126181411": {
+      "_id": 9126181411,
+      "name": "•°Fᴇꪊᴢ 𝘴ρᴀᴍ𝘴 ꪜ²",
+      "username": "Feuzpython1",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-11-26T05:13:28.461551+00:00",
+      "last_seen": "2026-11-26T05:15:27.724812+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-11-26T05:13:37.814063+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 0,
+        "logins": 4
+      }
     }
   },
   "bots": {
@@ -239,6 +264,12 @@
       "uid": 8632154722,
       "action": "broadcast_sent",
       "detail": "sent=5 fail=1"
+    },
+    {
+      "ts": "2026-11-26T05:13:38.326508+00:00",
+      "uid": 9126181411,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
     }
   ],
   "coupons": {},
