@@ -183,7 +183,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-11-27T04:27:40.191329+00:00",
-      "last_seen": "2026-11-27T04:27:40.194059+00:00",
+      "last_seen": "2026-11-27T04:29:32.184299+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -197,8 +197,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 0,
-        "logins": 1
+        "bots_uploaded": 1,
+        "logins": 4
       }
     }
   },
@@ -260,6 +260,31 @@
       "last_started": "2026-11-26T09:38:59.789154+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "8725ada7508c4ce3": {
+      "_id": "8725ada7508c4ce3",
+      "owner": 8204507197,
+      "name": "leo",
+      "dir": "/app/sandbox/8204507197_8725ada7508c4ce3",
+      "created": "2026-11-27T04:29:33.391378+00:00",
+      "enc_files": [
+        {
+          "key_id": "4ctymnllSRVLJ2j86-EVIQ",
+          "enc_path": "/app/storage/encfiles/8204507197/1795753774_leo_py.enc",
+          "filename": "leo.py",
+          "rel_path": "leo.py"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 10,
+        "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+      },
+      "gh_synced_at": 0,
+      "approval_status": "pending"
     }
   },
   "payments": [],
@@ -356,6 +381,14 @@
       "ts": "2026-11-26T09:38:46.930673+00:00",
       "uid": "9126181411",
       "filename": "mata.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-11-27T04:29:33.893027+00:00",
+      "uid": "8204507197",
+      "filename": "leo.py",
       "verdict": "SUSPICIOUS",
       "risk_score": 10,
       "summary": "🔍 File suspicious hai. Admin se manual review karwao."
